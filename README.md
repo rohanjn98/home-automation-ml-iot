@@ -37,6 +37,8 @@ Internet.
 
 
 ## Flowchart
-<img src="flowchart.png">
+<p align="center">
+  <img src="flowchart.png">
+</p>
 
 
